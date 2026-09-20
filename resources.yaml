@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 8e42e1f6-3151-4a8f-8571-f95276573613
+
+localResources:
+  collections:
+    - ../smart-parking/postman/SmartParking.postman_collection.json
